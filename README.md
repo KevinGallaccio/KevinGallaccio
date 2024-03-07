@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kevin Gallaccio
+=======================================================================================================================================
 
-<!--
-**KevinGallaccio/KevinGallaccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Java Developer
+-------------------------
 
-Here are some ideas to get you started:
+I am a **Full-Stack Java developer** currently honing skills at [Coders Campus](https://www.coderscampus.com/) bootcamp.  
+  
+Eager to take with me strong analytical and communication abilities gained through diverse experiences in **marketing**, **retail management** and **stock analysis** to the software development field.  
+Passionate with always learning new software, frameworks and languages, I have taken a course on Figma UI design and I am currently diving into OpenCV and Canvas API for my bootcamp's final project  
+  
+To see examples of my work, follow my progress on LinkedIn via [#KevinsCodingJourney](https://www.linkedin.com/search/results/all/?keywords=%23kevinscodingjourney&origin=TYPEAHEAD_HISTORY&searchId=6c0aa31f-16f9-4736-882e-97e446efdc4e&sid=yhF&spellCorrectionEnabled=true) in English 🇬🇧 or [#ParcoursDevDeKevin](https://www.linkedin.com/search/results/all/?keywords=%23parcoursdevdekevin&origin=TYPEAHEAD_HISTORY&searchId=6c0aa31f-16f9-4736-882e-97e446efdc4e&sid=yhF&spellCorrectionEnabled=true) in French 🇫🇷  
+  
+Let's connect and explore new opportunities!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Marseille, France
+*   ✉️  You can contact me at [gallacciokevin@gmail.com](mailto:gallacciokevin@gmail.com)
+*   🧠  I'm learning Java ☕️, Spring 🌱, MySQL 🐬, Maven 🪶, JavaScript 📄, React ⚛️
+*   🤝  I'm open to collaborating on any projects using the above stacks
+*   ⚡  I speak French, English, Portuguese and Italian so don't hesitate to contact me !
