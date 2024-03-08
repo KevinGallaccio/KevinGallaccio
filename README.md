@@ -13,11 +13,11 @@ To see examples of my work, follow my progress on LinkedIn via [#KevinsCodingJou
   
 Let's connect and explore new opportunities!
 
-*   🌍  I'm based in Marseille, France
+*   🌍  I'm based in [Marseille](https://maps.app.goo.gl/ht9cDAL1NKU9dxxt8), France
 *   ✉️  You can contact me at [gallacciokevin@gmail.com](mailto:gallacciokevin@gmail.com)
 *   🧠  I'm learning Java ☕️, Spring 🌱, MySQL 🐬, Maven 🪶, JavaScript 📄, React ⚛️
 *   🤝  I'm open to collaborating on any projects using the above stacks
-*   ⚡  I speak French, English, Portuguese and Italian so don't hesitate to contact me !
+*   ⚡  I speak French 🇫🇷, English 🇬🇧, Brazilian Portuguese 🇧🇷 and Italian 🇮🇹 so don't hesitate to contact me in your preferred language!
 
 ### Skills:
 
@@ -33,8 +33,8 @@ Let's connect and explore new opportunities!
 
 ### My GitHub Stats:   
 
-<a href="http://www.github.com/KevinGallaccio"><img src="https://github-readme-stats.vercel.app/api?username=KevinGallaccio&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KevinGallaccio's GitHub stats" /></a>
+<!-- <a href="http://www.github.com/KevinGallaccio"><img src="https://github-readme-stats.vercel.app/api?username=KevinGallaccio&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KevinGallaccio's GitHub stats" /></a>
 
-<a href="http://www.github.com/KevinGallaccio"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinGallaccio&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/KevinGallaccio"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinGallaccio&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
 <a href="https://github.com/KevinGallaccio" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinGallaccio&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
