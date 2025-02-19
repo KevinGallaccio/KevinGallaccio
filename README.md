@@ -36,4 +36,4 @@ Let's connect and explore new opportunities!
 
 <a href="http://www.github.com/KevinGallaccio"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinGallaccio&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
-<a href="https://github.com/KevinGallaccio" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinGallaccio&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/KevinGallaccio" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinGallaccio&langs_count=11&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
