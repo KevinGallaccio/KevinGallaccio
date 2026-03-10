@@ -32,4 +32,4 @@ Let's connect and explore new opportunities!
 
 ### My GitHub Stats:   
 
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinGallaccio)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/KevinGallaccio" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinGallaccio&langs_count=11&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
