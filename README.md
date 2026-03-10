@@ -10,7 +10,7 @@ I speak English, French, Brazilian Portuguese, and Italian.
 
 ### What I Build
 
-> Production projects built at [OughtaBee AI](https://www.linkedin.com/in/kgallaccio/) (current role) and prior client work. Source code is proprietary.
+> Production projects built at [OughtaBee AI](https://oughtabee.ai) (current role) and prior client work. Source code is proprietary.
 
 **AI-Powered SaaS Platform** — Multi-tenant knowledge management system with RAG pipelines, Pinecone vector search, and Private AI deployments on AWS Bedrock, Google Vertex AI, and OVH Cloud. Next.js 15, React 19, TypeScript, Prisma, MySQL.
 
