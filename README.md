@@ -1,35 +1,38 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kevin Gallaccio
-=======================================================================================================================================
+# Kevin Gallaccio
 
-Full-Stack Software Developer
--------------------------
+**Full-Stack Developer & AI Engineer** based in Marseille, France.
 
-I am a **Full-Stack Java developer** and [Coders Campus](https://www.coderscampus.com/) bootcamp graduate.
-  
-To see examples of my work, follow my progress on LinkedIn via [#KevinsCodingJourney](https://www.linkedin.com/search/results/all/?keywords=%23kevinscodingjourney&origin=TYPEAHEAD_HISTORY&searchId=6c0aa31f-16f9-4736-882e-97e446efdc4e&sid=yhF&spellCorrectionEnabled=true) in English 🇬🇧 or [#ParcoursDevDeKevin](https://www.linkedin.com/search/results/all/?keywords=%23parcoursdevdekevin&origin=TYPEAHEAD_HISTORY&searchId=6c0aa31f-16f9-4736-882e-97e446efdc4e&sid=yhF&spellCorrectionEnabled=true) in French 🇫🇷  
-  
-Let's connect and explore new opportunities!
+I build and ship production AI-powered SaaS platforms end-to-end — from architecture and UI design to cloud deployment. My daily stack: **Next.js**, **TypeScript**, **React**, **Java/Spring Boot**.
 
-*   🌍  I'm based in [Marseille](https://maps.app.goo.gl/ht9cDAL1NKU9dxxt8), France
-*   ✉️  You can contact me at [gallacciokevin@gmail.com](mailto:gallacciokevin@gmail.com)
-*   🧠  My toolbox includes Java 11->21 ☕️, Spring 🌱, MySQL 🐬, Maven 🪶, JavaScript 📄, Spring Security 🔐
-*   🎨 Beyond coding, I have a keen eye for design and understand the importance of creating intuitive and visually appealing user interfaces. My front-end skills encompass HTML, CSS, Javascript and ShoeLace, allowing me to craft seamless user experiences.
-*   🛢️ My familiarity with multiple databases and version control systems like Git ensures a solid foundation for database management and collaborative development.
-*   🤝  I'm open to collaborating on any projects using the above stacks
-*   ⚡  I speak French 🇫🇷, English 🇬🇧, Brazilian Portuguese 🇧🇷 and Italian 🇮🇹 so don't hesitate to contact me in your preferred language!
+I speak English, French, Brazilian Portuguese, and Italian.
 
-### Skills:
+---
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+### What I Build
 
-### Socials:
-  
-<p align="left">  <a href="https://www.github.com/KevinGallaccio" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kgallaccio" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.codepen.io/Kevin-Gallaccio" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> 
+> Production projects built at [OughtaBee AI](https://www.linkedin.com/in/kgallaccio/) (current role) and prior client work. Source code is proprietary.
 
-</p>
+**AI-Powered SaaS Platform** — Multi-tenant knowledge management system with RAG pipelines, Pinecone vector search, and Private AI deployments on AWS Bedrock, Google Vertex AI, and OVH Cloud. Next.js 15, React 19, TypeScript, Prisma, MySQL.
 
-### My GitHub Stats:   
+**AI Code Review Platform** — Automated code review system powered by Anthropic Claude. Analyzes GitHub repos, generates personalized feedback, and tracks submissions. React/TypeScript + Java/Spring Boot.
 
-[<a href="https://github.com/KevinGallaccio" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinGallaccio&langs_count=11&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>](https://github-readme-streak-stats.herokuapp.com/?user=KevinGallaccio&theme=)
+**Live Event Platform (Winii)** — Real-time festival game platform that served 2,000+ users with WebSocket-driven live draws, QR ticketing, and PWA mobile experience. Java/Spring Boot, MySQL.
+
+---
+
+### Tech Stack
+
+**Frontend** &nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff)
+
+**Backend** &nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=fff) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+
+**AI & Cloud** &nbsp; ![Anthropic](https://img.shields.io/badge/Anthropic-191919?logo=anthropic&logoColor=fff) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff) ![AWS](https://img.shields.io/badge/AWS_Bedrock-232F3E?logo=amazonwebservices&logoColor=fff) ![Google Cloud](https://img.shields.io/badge/Vertex_AI-4285F4?logo=googlecloud&logoColor=fff)
+
+**DevOps** &nbsp; ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=fff) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=fff)
+
+---
+
+### Connect
+
+<a href="https://www.linkedin.com/in/kgallaccio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:gallacciokevin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff" alt="Email" /></a>
